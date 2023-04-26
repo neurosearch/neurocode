@@ -2,7 +2,7 @@
 NeuroSearch code is an advanced and highly optimized solution for conducting neural searches. With its cutting-edge algorithms and machine learning techniques, NeuroSearch code provides users with lightning-fast and highly accurate results. Whether you're searching for images, videos, files or any other type of digital content, the code's sophisticated neural network architecture ensures that you get the best possible results every time.
 The code is built on Python, one of the world's most popular programming languages, and leverages the latest advancements in artificial intelligence and machine learning to provide a truly advanced search experience. With its intuitive interface, the code is incredibly easy to use, even for those with no prior coding experience.
 
-# Chatbot GPT-4 Using Python
+# Chatbot GPT-4 Using Python 
 
 import gpt_4_simple as gpt4
 
